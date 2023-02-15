@@ -1,6 +1,6 @@
 # DATA ANALYST PORTFOLIO
 
-##ABOUT ME
+## ABOUT ME
 
 Hi there!
 
