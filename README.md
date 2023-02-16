@@ -10,7 +10,11 @@ During my time at the college, I have been influenced by several courses in topi
 
 Most of my experience prior to returning to school is in the Biotech/Clinical Research industries, where I spent more than 5 years in various management and administrative roles working for both a contract sterile-injectable manufacturer and a global CRO. 
 
-I have created this portfolio to house projects that I complete as I learn the data analysis tools/software that will be needed for my future career and I sincerely hope you enjoy viewing them as much as I have enjoyed working on them. You can navigate the portfolio by clicking on the folders in the repository shown above this README file. Each project will have its own folder and README file describing my reasoning, methodology, insights, recommendations, and things I would improve for future projects. 
+I have created this portfolio to house projects that I complete as I learn the data analysis tools/software that will be needed for my future career after graduating this spring and I sincerely hope you enjoy viewing them as much as I have enjoyed working on them.
+
+## Projects
+
+1. [Analysis of Covid-19 global case, death, and vaccination data](
 
 
 ## CONTACT INFO
