@@ -65,7 +65,7 @@ Users can also hover over any country on this map to get a brief timeline of the
 
 ### Dashboard #2: Covid Deaths
 
-![Covid Deaths Dashboard]([https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG)
+![Covid Deaths Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG)
 
-![Covid Vaccines Dashboard]([[https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Vaccines%20Dashboard.PNG ))
+![Covid Vaccines Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Vaccines%20Dashboard.PNG)
 
