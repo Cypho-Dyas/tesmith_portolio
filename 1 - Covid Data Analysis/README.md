@@ -58,6 +58,8 @@ Once in Tableau I decided to create three separate dashboards to highlight the e
 
 I wanted each dashboard to be as interactive as possible to allow viewers to draw their own conclusions from the data. Multiple fields were aggregated and calculated fields were created where necessary to capture the specialized aggregations or ratios that were ultimately used in each dashboard, especially in the *KPIs* sections at the top. 
 
+The three dashboards were compiled into a Tableau *story* format to make viewing/comparing the three simpler for viewers. 
+
 You can access actual dashboards/visuals by visiting my Tableau public profile here: [Tableau Covid Workboook](https://public.tableau.com/app/profile/travis.smith7313/viz/CovidWorkbook_16757822300150/CovidDashboards) 
 
 ### Dashboard #1: Covid Cases
