@@ -41,7 +41,17 @@ After concluding the initial analysis, I had a fairly good idea of the *high-lev
 
 ## Visualization
 
+Once in Tableau I decided to create three separate dashboards: 
 
+1. A dashboard to track global case information
+2. A dashboard to track global death information
+3. A dashboard to track global vaccine information.
+
+I wanted each dashboard to be as interactive as possible to allow viewers to draw their own conclusions from the data. Multiple fields were aggregated and calculated fields were created where necessary to capture the specialized aggregations or ratios that were ultimately used in each dashboard, especially in the *KPIs* sections at the top. 
+
+### Dashboard #1: Covid Cases
+
+![Covid Cases Dashboard](
 
 
 
