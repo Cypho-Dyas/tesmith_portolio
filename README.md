@@ -18,4 +18,5 @@ I have created this portfolio to house projects that I complete as I learn the d
 If you would like to reach me, you can do so using the following methods:
 
 **LinkedIn**: [https://www.linkedin.com/in/travis-e-smith](https://www.linkedin.com/in/travis-e-smith/)
+
 **Email**: tesmith0524@gmail.com
