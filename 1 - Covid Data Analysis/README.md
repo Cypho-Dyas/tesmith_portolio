@@ -50,7 +50,7 @@ After concluding the initial analysis, I had a fairly good idea of the *high-lev
 
 ## Visualization
 
-Once in Tableau I decided to create three separate dashboards to highlight the effects of the covid pandemic globalliy: 
+Once in Tableau I decided to create three separate dashboards to highlight the effects of the covid pandemic globally: 
 
 1. A dashboard to track global case information
 2. A dashboard to track global death information
@@ -98,7 +98,7 @@ This dashboard again shows a heatmap, but this time it is based on the amount of
 
 The charts at the bottom of this visual show which countries have the most vaccinated populous conveyed as the percentage of the population that has a minimum of one vaccine does (partially vaccinated), and the percentage of the population that has had at least 2 doses (fully vaccinated), respectively. 
 
-The right most chart is a scatter chart of all the locations based on the amount of vaccinations per hundred on the Y-axis and the GDP per capita on the X-axis. I added this chart primarily because I wanted to use some of the more particular population data for this initial project, and I was curious is their was any correlation between GDP per capita and vaccination rates. I will cover the findings of this chart in the *insights* section of this write-up below. 
+The right most chart is a scatter chart of all the locations based on the amount of vaccinations per hundred on the Y-axis and the GDP per capita on the X-axis. I added this chart primarily because I wanted to use some of the more particular population data for this initial project, and I was curious if there was any correlation between GDP per capita and vaccination rates. I will cover the findings of this chart in the *insights* section of this write-up below. 
 
 ## Insights
 
