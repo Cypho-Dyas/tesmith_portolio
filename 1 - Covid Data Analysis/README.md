@@ -2,7 +2,7 @@
 
 ## Skills Displayed 
 
-Data Cleaning, Exploratory Data Analysis (PostgreSQL), Data visualization (Tableau)
+Data Extraction/Transformation/Loading (ETL), Data Cleaning, Exploratory Data Analysis (PostgreSQL), Data visualization (Tableau)
 
 ## The Data
 
@@ -37,7 +37,7 @@ Each table was subsequently saved into a Comma Separated Values (CSV) file and s
 
 The data was explored using the PostgreSQL RDBMS. A copy of the code can be found here: [PostgreSQL EDA Code](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Data%20Analysis%20Project%20EDA.sql) 
 
-After concluding the initial analysis I had a fairly good idea of the *high-level* visualizations I wanted to make, however I also wasn't sure if I would want to come back to this project at a later date to expand upon it as there was a large amount of data that I did not touch upon for this initial visualization. I decided to create a view of the most promising fields from all five tables and exported that to a CSV for visualization in Tableau. This would allow me to come back and enhance/add visualizations at a later date if I decided to revisit the project without having to delve back into the CSV files or PostgreSQL.
+After concluding the initial analysis, I had a fairly good idea of the *high-level* visualizations I wanted to make, however I also wasn't sure if I would want to come back to this project at a later date to expand upon it as there was a large amount of data that I did not touch upon for this initial visualization. I decided to create a view of the most promising fields from all five tables and exported that to a CSV for visualization in Tableau. This would allow me to come back and enhance/add visualizations at a later date if I decided to revisit the project without having to delve back into the CSV files or PostgreSQL.
 
 ## Visualization
 
