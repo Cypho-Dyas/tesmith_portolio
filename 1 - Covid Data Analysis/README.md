@@ -51,7 +51,7 @@ I wanted each dashboard to be as interactive as possible to allow viewers to dra
 
 ### Dashboard #1: Covid Cases
 
-![Covid Cases Dashboard](
+![Covid Cases Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG)
 
 
 
