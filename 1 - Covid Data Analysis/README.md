@@ -35,5 +35,5 @@ Each table was subsequently saved into a Comma Separated Values (CSV) file and s
 
 ## Exploratory Data Analysis in PostgreSQL
 
-The data was explored using the PostgreSQL RDBMS. A copy of the code can be found here:
+The data was explored using the PostgreSQL RDBMS. A copy of the code can be found here: [PostgreSQL EDA Code](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Data%20Analysis%20Project%20EDA.sql) 
 
