@@ -45,7 +45,7 @@ Once in Tableau I decided to create three separate dashboards:
 
 1. A dashboard to track global case information
 2. A dashboard to track global death information
-3. A dashboard to track global vaccine information.
+3. A dashboard to track global vaccine information 
 
 I wanted each dashboard to be as interactive as possible to allow viewers to draw their own conclusions from the data. Multiple fields were aggregated and calculated fields were created where necessary to capture the specialized aggregations or ratios that were ultimately used in each dashboard, especially in the *KPIs* sections at the top. 
 
@@ -53,5 +53,19 @@ I wanted each dashboard to be as interactive as possible to allow viewers to dra
 
 ![Covid Cases Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG)
 
+The first dashboard tracks global covid cases and allows the user to filter down to a specific country if interested by either using the dropdown filter at the top of the page or clicking on any other location based element present on the dashboard. Alternatively, users can get aggregated data for an entire continent by clicking on any of the continent elements displayed. 
 
+The map at the top highlights the countries who have had the most cases per million people. This statistic normalizes the data between countries by focusing the count of cases around a unit of the populace and therefore was a great candidate for the map. There are still many variables that could contribute to the number of cases a country has at any given time (land mass, spread of populace, etc.) but at a high level the cases_per_million data tells a great story. 
+
+Users can also hover over any country on this map to get a brief timeline of the new cases reported throughout the pandemic to easily assess which portion of which years had the most cases for any individual countries assuming the data was present in the dataset. 
+
+
+
+
+
+### Dashboard #2: Covid Deaths
+
+![Covid Deaths Dashboard]([https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG)
+
+![Covid Vaccines Dashboard]([[https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Vaccines%20Dashboard.PNG ))
 
