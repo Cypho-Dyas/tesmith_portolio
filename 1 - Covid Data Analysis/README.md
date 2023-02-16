@@ -2,7 +2,16 @@
 
 ## Skills Displayed 
 
-Data Extraction/Transformation/Loading (ETL), Data Cleaning, Exploratory Data Analysis (PostgreSQL), Data visualization (Tableau)
+* Data Extraction/Transformation/Loading (ETL)
+* Data Cleaning
+* Exploratory Data Analysis (PostgreSQL)
+* Data visualization (Tableau)
+
+## Reasoning
+
+I chose this data set for a number of reasons, primary of which was my background in the biotech industry, which made doing an analysis of the covid dataset extremely appealing to me. Secondly, I personally believe that there was a large spread of covid disinformation throughout the pandemic, and the information I did receive from news coverage during the time was largely based on my own country, the United States of America (USA). I wanted to compare countries and continents all over the globe to get a real sense of which locations were affected disproportionally in relation to the others, which then may be used to further research the effectiveness of the different medical systems and governments and how they handled the pandemic. 
+
+While there are a multitude of dashboards aimed at delivering up to date covid information the logic and methodology/data aggregation behind them is largely unstated, and I felt that diving into a similar dataset would help me understand better the logic that goes into evaluating a global dataset, which is something I would like to do more in the future. 
 
 ## The Data
 
@@ -41,7 +50,7 @@ After concluding the initial analysis, I had a fairly good idea of the *high-lev
 
 ## Visualization
 
-Once in Tableau I decided to create three separate dashboards: 
+Once in Tableau I decided to create three separate dashboards to highlight the effects of the covid pandemic globalliy: 
 
 1. A dashboard to track global case information
 2. A dashboard to track global death information
@@ -49,23 +58,36 @@ Once in Tableau I decided to create three separate dashboards:
 
 I wanted each dashboard to be as interactive as possible to allow viewers to draw their own conclusions from the data. Multiple fields were aggregated and calculated fields were created where necessary to capture the specialized aggregations or ratios that were ultimately used in each dashboard, especially in the *KPIs* sections at the top. 
 
+You can access actual dashboards/visuals by visiting my Tableau public profile here: [Tableau Covid Workboook](https://public.tableau.com/app/profile/travis.smith7313/viz/CovidWorkbook_16757822300150/CovidDashboards) 
+
 ### Dashboard #1: Covid Cases
 
 ![Covid Cases Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG)
 
-The first dashboard tracks global covid cases and allows the user to filter down to a specific country if interested by either using the dropdown filter at the top of the page or clicking on any other location based element present on the dashboard. Alternatively, users can get aggregated data for an entire continent by clicking on any of the continent elements displayed. 
+The first dashboard tracks global covid cases and allows the user to filter down to a specific country if interested by either using the dropdown filter at the top of the page or clicking on any other location based element present on the dashboard (e.g., map, bar/bubble charets, etc.) Alternatively, users can get aggregated data for an entire continent by clicking on any of the continent elements displayed. The KPI's at the top will update based on your selection as long as the data is available. 
 
-The map at the top highlights the countries who have had the most cases per million people. This statistic normalizes the data between countries by focusing the count of cases around a unit of the populace and therefore was a great candidate for the map. There are still many variables that could contribute to the number of cases a country has at any given time (land mass, spread of populace, etc.) but at a high level the cases_per_million data tells a great story. 
+The map at the top highlights the countries who have had the most cases per million people. This statistic normalizes the data between countries by focusing the count of cases around a derived unit of the populace and therefore was a great candidate for the map. There are still many variables that could contribute to the number of cases a country has at any given time per million people (land barriers, spread of populace, etc.) but at a high level the cases_per_million data tells a great global story. 
 
-Users can also hover over any country on this map to get a brief timeline of the new cases reported throughout the pandemic to easily assess which portion of which years had the most cases for any individual countries assuming the data was present in the dataset. 
+Users can also hover over any country on this map to get a brief timeline of the new cases reported throughout the pandemic to easily assess which portion of which years had the most cases for any individual countries assuming the data was present in the dataset. This is a great tool for quickly comparing case spikes between two countries to get a better idea of who may have had better covid prevention measures in place at any given time.
 
+The charts at the bottom of the dashboard show primarily information by continent, with the exception being the middle chart, which lists the top countries by cases per million people for any given selection. If a continental filter is applied, then this will show the top countries by cases per million for that continent, based on the available data. 
 
+The bottom left-most chart shows the running total of covid cases as of the day before I pulled the data (2023-02-01). If no filter is applied then this is a global running total, broken down by individual continental contributions. If specific country filter is applied, then this will show the running total for that country, with the color indicating the continent that the location belongs to. 
 
-
+The right-most bottom chart shows the relative size of case distribution per continent, to help the viewer easily get a sense of which parts of the globe were more heavily affected by the spread of the virus. Using this high-level information, the viewer can decide which countries they wish to focus on for more information at any given time. 
 
 ### Dashboard #2: Covid Deaths
 
 ![Covid Deaths Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG)
+
+This dashboard is largely the same as the previous one, however the data contained pertains to the global deaths reported as a result of the Covid-19 pandemic. 
+
+I wanted to make a similar dashboard to the covid cases dashboard to allow viewers to quickly compare the amount of covid cases to the amount of covid deaths on a global scale, with the ability to drill down on specific locations as wanted. 
+
+Just as with dashboard #1, the map shows a normalized value of covid deaths per million people for each country. Viewers can hover over any part of the map to see a timeline of new deaths reported throughout the pandemic. Switching between the two dashboards lets the viewer easily compare case spikes with death spikes for any particular location. 
+
+The charts at the bottom also align with those of dashboard #1, except they show the death data in a global-continental context. Death data was analyzed and visualized as a global running total (divided by continent) on the left, with a size comparison of reported death numbers per continent on the right side. The central chart again shows the top countries based on deaths per million people for any applied filter. If no filter is applied, then the middle chart shows the top locations globally, with the bar color indicating the country's continent of origin. 
+
 
 ![Covid Vaccines Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Vaccines%20Dashboard.PNG)
 
