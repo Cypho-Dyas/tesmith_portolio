@@ -14,11 +14,11 @@ I have created this portfolio to house projects that I complete as I learn the d
 
 ## Projects
 
-### Completed
+### Completed/In-Progress
 
 1. [Analysis of Covid-19 global case, death, and vaccination data](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/1%20-%20Covid%20Data%20Analysis)
 
-### Planned and upcoming
+### Planned/Upcoming
 
 1. Data analysis using Microsoft stack exclusively (MSSQL, Power BI)
 2. Graduation weight-loss journey (analysis of Fitbit data from my final semester in MS Excel)
