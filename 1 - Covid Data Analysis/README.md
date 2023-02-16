@@ -33,3 +33,7 @@ With this in mind I used load/transform in Microsoft Excel's Power Query to pull
 
 Each table was subsequently saved into a Comma Separated Values (CSV) file and saved to a public folder on my personal computer to be loaded into my PostgreSQL server. 
 
+## Exploratory Data Analysis in PostgreSQL
+
+The data was explored using the PostgreSQL RDBMS. A copy of the code can be found here:
+
