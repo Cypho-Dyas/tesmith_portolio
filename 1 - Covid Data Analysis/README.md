@@ -66,9 +66,9 @@ You can access actual dashboards/visuals by visiting my Tableau public profile h
 
 ![Covid Cases Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG)
 
-The first dashboard tracks global covid cases and allows the user to filter down to a specific country if interested by either using the dropdown filter at the top of the page or clicking on any other location based element present on the dashboard (e.g., map, bar/bubble charets, etc.) Alternatively, users can get aggregated data for an entire continent by clicking on any of the continent elements displayed. The KPI's at the top will update based on your selection as long as the data is available. 
+The first dashboard tracks global covid cases and allows the user to filter down to a specific country if interested by either using the dropdown filter at the top of the page or clicking on any other location based element present on the dashboard (e.g., heatmap, bar/bubble charets, etc.) Alternatively, users can get aggregated data for an entire continent by clicking on any of the continent elements displayed. The KPI's at the top will update based on your selection as long as the data is available. 
 
-The map at the top highlights the countries who have had the most cases per million people. This statistic normalizes the data between countries by focusing the count of cases around a derived unit of the populace and therefore was a great candidate for the map. There are still many variables that could contribute to the number of cases a country has at any given time per million people (land barriers, spread of populace, etc.) but at a high level the cases_per_million data tells a great global story. 
+The heatmap at the top highlights the countries who have had the most cases per million people. This statistic normalizes the data between countries by focusing the count of cases around a derived unit of the populace and therefore was a great candidate for the map. There are still many variables that could contribute to the number of cases a country has at any given time per million people (land barriers, spread of populace, etc.) but at a high level the cases_per_million data tells a great global story. 
 
 Users can also hover over any country on this map to get a brief timeline of the new cases reported throughout the pandemic to easily assess which portion of which years had the most cases for any individual countries assuming the data was present in the dataset. This is a great tool for quickly comparing case spikes between two countries to get a better idea of who may have had better covid prevention measures in place at any given time.
 
@@ -82,14 +82,23 @@ The right-most bottom chart shows the relative size of case distribution per con
 
 ![Covid Deaths Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG)
 
-This dashboard is largely the same as the previous one, however the data contained pertains to the global deaths reported as a result of the Covid-19 pandemic. 
+This dashboard is largely the same as the previous one, however the data contained pertains to the global deaths reported as a result of the Covid-19 pandemic. I wanted to make a similar dashboard to the covid cases dashboard to allow viewers to quickly compare the amount of covid cases to the amount of covid deaths on a global scale, with the ability to drill down on specific locations as wanted. 
 
-I wanted to make a similar dashboard to the covid cases dashboard to allow viewers to quickly compare the amount of covid cases to the amount of covid deaths on a global scale, with the ability to drill down on specific locations as wanted. 
-
-Just as with dashboard #1, the map shows a normalized value of covid deaths per million people for each country. Viewers can hover over any part of the map to see a timeline of new deaths reported throughout the pandemic. Switching between the two dashboards lets the viewer easily compare case spikes with death spikes for any particular location. 
+Just as with dashboard #1, the heatmap shows a normalized value of covid deaths per million people for each country. Viewers can hover over any part of the map to see a timeline of new deaths reported throughout the pandemic. Switching between the two dashboards lets the viewer easily compare case spikes with death spikes for any particular location. 
 
 The charts at the bottom also align with those of dashboard #1, except they show the death data in a global-continental context. Death data was analyzed and visualized as a global running total (divided by continent) on the left, with a size comparison of reported death numbers per continent on the right side. The central chart again shows the top countries based on deaths per million people for any applied filter. If no filter is applied, then the middle chart shows the top locations globally, with the bar color indicating the country's continent of origin. 
 
+Again, clicking on any dashboard element will update the KPI's at the top of the visual as long as the data is present. 
+
+### Dashboard #3: Covid Vaccines
 
 ![Covid Vaccines Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Vaccines%20Dashboard.PNG)
+
+This dashboard again shows a heatmap, but this time it is based on the amount of people vaccinated per hundred; showing at a glance which countries have a more vaccinated populace than others. As with the previous two maps viewers can hover over any location on the map to get a timeline of new vaccinations, showing which countries were quickest to get vaccines distributed, and at what points during the pandemic the number of new vaccinations peaked per country. 
+
+The charts at the bottom of this visual show which countries have the most vaccinated populous conveyed as the percentage of the population that has a minimum of one vaccine does (partially vaccinated), and the percentage of the population that has had at least 2 doses (fully vaccinated), respectively. 
+
+The right most chart is a scatter chart of all the locations based on the amount of vaccinations per hundred on the Y-axis and the GDP per capita on the X-axis. I added this chart primarily because I wanted to use some of the more particular population data for this initial project, and I was curious is their was any correlation between GDP per capita and vaccination rates. I will cover the findings of this chart in the *insights* section of this write-up below. 
+
+## Insights
 
