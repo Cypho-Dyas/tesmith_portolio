@@ -64,7 +64,7 @@ You can access actual dashboards/visuals by visiting my Tableau public profile h
 
 ### Dashboard #1: Covid Cases
 
-![Covid Cases Dashboard]()
+![Covid Cases Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Cases%20Dashboard.PNG)
 
 The first dashboard tracks global covid cases and allows the user to filter down to a specific country if interested by either using the dropdown filter at the top of the page or clicking on any other location based element present on the dashboard (e.g., heatmap, bar/bubble charets, etc.) Alternatively, users can get aggregated data for an entire continent by clicking on any of the continent elements displayed. The KPI's at the top will update based on your selection as long as the data is available. 
 
@@ -80,7 +80,7 @@ The right-most bottom chart shows the relative size of case distribution per con
 
 ### Dashboard #2: Covid Deaths
 
-![Covid Deaths Dashboard]()
+![Covid Deaths Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Deaths%20Dashboard.PNG)
 
 This dashboard is largely the same as the previous one, however the data contained pertains to the global deaths reported as a result of the Covid-19 pandemic. I wanted to make a similar dashboard to the covid cases dashboard to allow viewers to quickly compare the amount of covid cases to the amount of covid deaths on a global scale, with the ability to drill down on specific locations as wanted. 
 
@@ -92,7 +92,7 @@ Again, clicking on any dashboard element will update the KPI's at the top of the
 
 ### Dashboard #3: Covid Vaccines
 
-![Covid Vaccines Dashboard]()
+![Covid Vaccines Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Covid%20Vaccines%20Dashboard.PNG)
 
 This dashboard again shows a heatmap, but this time it is based on the amount of people vaccinated per hundred; showing at a glance which countries have a more vaccinated populace than others. As with the previous two maps viewers can hover over any location on the map to get a timeline of new vaccinations, showing which countries were quickest to get vaccines distributed, and at what points during the pandemic the number of new vaccinations peaked per country. 
 
