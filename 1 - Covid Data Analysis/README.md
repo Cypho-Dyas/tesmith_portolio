@@ -102,3 +102,14 @@ The right most chart is a scatter chart of all the locations based on the amount
 
 ## Insights
 
+### Covid Cases
+
+Europe has had more of an issue controlling cases than other countries. Specifically, France and many surrounding countries seem to have been disproportionately affected by the Virus during the worst of the pandemic. The close proximity of many of those countries on the top countries by cases per million chart suggests that travel between these countries may have been a significant contributor to the case counts we see here. 
+
+There was a huge spike of cases in the early part of 2022 that affected every country, although some countries have multiple similar spikes, it is easy to see that the initial spike in early 2022 was the worst of the spread during the entire pandemic to date. A bit of global research into this timeframe reveals that this was likely due to a perfect storm of multiple discoveries and governmental regulatory decisions. Namely, this timeframe coincides with the discovery of multiple new sub-variants of the virus, including many sub-variants of the original Omicron variant. 
+
+Additionally, this timeframe coincides with the lifting of several Covid restrictions that had been in place since late 2020/early 2021. This suggests that government regulations and restrictions played an integral role in controlling the spread of the virus while in affect, however; the affects of the early 2022 spike can be seen on a global scale which is obvious when looking at the running total of cases area chart.
+
+It is most likely that this case spike was a result of a combination of the variables mentioned above, but further research/analysis should be conducted to see how much of the spike is attributable to each variable, in order to better understand how human intervention can help prevent the spread of future viruses in a pandemic scenario. 
+
+### Covid Deaths
