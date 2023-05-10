@@ -37,3 +37,6 @@ A new Excel sheet was created to house the pivot tables used to analyze the data
 
 The finished dashboard is shown below, along with a link to the final Excel workbook:
 
+![Final FitBit Data Analysis Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/2%20-%20FitBit%20Data%20Analysis/Picture%20of%20Final%20Dashboard.PNG)
+
+[Link to Raw Workbook:](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/2%20-%20FitBit%20Data%20Analysis/FitBit%20Final%20Semester%20Health%20Analysis%20Project.xlsx)
