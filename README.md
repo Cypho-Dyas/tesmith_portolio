@@ -17,6 +17,8 @@ Thank you for your consideration.
 ### Completed/In-Progress
 
 1. [Analysis of Covid-19 global case, death, and vaccination data](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/1%20-%20Covid%20Data%20Analysis)
+2. [Analysis of my final semester weight loss journey using FitBit Data](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/1%20-%20Covid%20Data%20Analysis](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/2%20-%20FitBit%20Data%20Analysis)
+3. Reading Recommendation Dashboard (current work in progress)
 
 ## CONTACT INFO
 
