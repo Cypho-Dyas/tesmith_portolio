@@ -2,28 +2,21 @@
 
 ## ABOUT ME
 
-Hi there!
+Hello,
 
-My name is Travis Smith and I am currently enrolled in the BSBA - (Management) program at Appalachian State University's Walker College of Business. I plan on graduating from the program this May (2023).
+I'm Travis Smith, a recent graduate of Appalachian State University's Walker College of Business, where I completed the BSBA - Management program. Throughout my time at the college, I was exposed to courses in Business Analytics, Statistics, Strategic Management, and Commercial Finance, which sparked my passion for data analytics and led me to pursue a career in the field.
 
-During my time at the college, I have been influenced by several courses in topics such as Business Analytics using Spreadsheet Technology, Statistics, Strategic Management, and Commercial Finance. It was these influences that eventually led me to pursue a career in data analytics/data science after graduation. As part of that goal, I have decided to learn as many of the data science tools and software as I can prior to graduation and before I begin my job search in earnest.
+Prior to returning to school at the age of 29, I gained over 5 years of experience in management and administrative roles within the Biotech/Clinical Research industries. During this time I worked for a contract sterile-injectable manufacturer and a global clinical research organization.
 
-Most of my experience prior to returning to school is in the Biotech/Clinical Research industries, where I spent more than 5 years in various management and administrative roles working for both a contract sterile-injectable manufacturer and a global CRO. 
+In my pursuit of a data analytics/data science career, I have developed this portfolio to showcase my projects as I acquire proficiency in various data science tools and software. I'm eager to contribute my skills and expertise to a relevant position in the field, and I hope you find my portfolio compelling and enjoyable.
 
-I have created this portfolio to house projects that I complete as I learn the data analysis tools/software that will be needed for my future career after graduating this spring and I sincerely hope you enjoy viewing them as much as I have enjoyed working on them.
+Thank you for your consideration.
 
 ## Projects
 
 ### Completed/In-Progress
 
 1. [Analysis of Covid-19 global case, death, and vaccination data](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/1%20-%20Covid%20Data%20Analysis)
-
-### Planned/Upcoming
-
-1. Data analysis using Microsoft stack exclusively (MSSQL, Power BI)
-2. Graduation weight-loss journey (analysis of Fitbit data from my final semester in MS Excel)
-3. Python web scraping analysis project
-
 
 ## CONTACT INFO
 
