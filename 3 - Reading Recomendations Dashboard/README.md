@@ -44,6 +44,15 @@ The data was remarkably dirty given the final visualization I had in mind. Some 
 This actually turned out to be the most arduous data cleaning task I have undertaken so far, as many of the author names and publisher names had been entered differently or (in some cases) incorrectly altogether. I knew going into this process that I would want to group these two fields categorically at some point in my viz, so I had to ensure that all of these similar entries were written exactly the same throughout each field. Throughout this process I came to really understand the patience required to properly clean a set of data for use. Fixing the publishers field itself required over 600 find and replace functions, with independent research needed continuously to ensure that the new values were correct and assigned to the appropriate titles. The entire process took multiple days of focused attention before I was satisfied with the result.
 
 ## Data Analysis and Visualization
-The cleaned data was loaded into Power Bi as a single table for visualization. You can see the final result below
+The cleaned data was loaded into Power Bi as a single table for visualization. On the right side I included a slider for the viewer to quickly and easily change the date range for the entire page, along with a gauge to show the average reader rating of the current selection quickly and succinctly (average score from 1 to 5, includes all publications when no filter is applied), the total number of available ratings for the current selection, and the average number of pages for the current selection. 
+
+I have started to realize that I always prefer to add a categorical breakdown when possible in visualizations, to give the viewer a quick breakdown they can subsequently filter on for quick, high-level results. In this case I have used a trusty tree map to show the breakdown of publishers by total count of books published. You can use the drill mode in Power BI to drill down into these publishers to find more breakdowns in the following order, all based on number of books published: publisher -> Authors -> Language -> Titles. 
+
+Of course, any good reader will want to know at a glance what the top books are based on their applied filters, so I have included a bar chart to show the top 15 books based on average reader rating for any selection of multiple books made on the page. This way readers can quickly discover which books are the most highly rated based on any given publisher/author. Additionally, I included a line and column chart next to that to show the top 5 authors based on the overall count of ratings. This is intended to help viewers quickly filter for authors who have clearly gotten a lot of attention over their careers from readers. The left Y axis (columns) shows the average rating for each the authors while the right Y axis (line) shows the number of books published by each author. This gives viewers a quick glance at the top authors and how they stack up to each other based on multiple factors.
+
+
+You can see the final result below:
+
+![Data Viz Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/3%20-%20Reading%20Recomendations%20Dashboard/Reading%20Recommendation%20Dashboard.PNG)
 
 
