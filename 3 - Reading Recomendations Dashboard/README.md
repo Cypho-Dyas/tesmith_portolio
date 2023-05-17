@@ -58,7 +58,9 @@ Once all of the above steps were finished, I filtered the entire visual to only 
 
 I usually create simple, no-frills dashboards but this time I decided to do a little something extra by adding a background to the dashboard. I wanted the viewers to feel comfortable while viewing the dashboard to put them into a reading mood. For whatever reason lo-fi artwork (especially landscapes) do this for me, so I found a good one under creative commons license to use here. Over all the project may have been a simple one, but I am happy with the final visualization, which you can see below:
 
-![Data Viz Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/3%20-%20Reading%20Recomendations%20Dashboard/Reading%20Recommendation%20Dashboard.PNG)
+![Data Viz Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/3%20-%20Reading%20Recomendations%20Dashboard/Reading%20Recommendation%20Dashboard1.PNG)
+
+You can also find a copy of the Power BI file [HERE](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/3%20-%20Reading%20Recomendations%20Dashboard/Reading%20Recommendation%20Dashboard.pbix)
 
 ## Insights
 
