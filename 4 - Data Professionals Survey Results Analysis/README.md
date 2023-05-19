@@ -66,7 +66,7 @@ You can see a screenshot of the completed dashboard, along with an additional sc
 
 ![Data Professional Survey Results Analysis Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis%20Dashboard.PNG)
 
-![Data Professional Survey Results Analysis Dashboard - Accessible](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professional%20Survey%20Results%20Analysis%20(Accessible).PNG)
+![Data Professional Survey Results Analysis Dashboard - Accessible](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professional%20Survey%20Results%20Analysis%20(Accessible1).PNG)
 
 You can find a copy of the PowerBI files below if interested:
 
