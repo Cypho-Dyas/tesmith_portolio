@@ -63,3 +63,10 @@ Finally, I applied a simple theme to the entire visualization and used visible b
 One interesting thing about Microsoft Power BI currently is that it has integrated accessibility themes for visually impaired viewers. I always want to incorporate DEI measures into my work when possible, so I decided to play around with these themes to see how they worked and how they can be applied to visualizations in Power BI for future reference. 
 
 You can see a screenshot of the completed dashboard, along with an additional screenshot of the accessible version below:
+
+![Data Professional Survey Results Analysis Dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis%20Dashboard.PNG)
+
+![Data Professional Survey Results Analysis Dashboard - Accessible](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professional%20Survey%20Results%20Analysis%20(Accessible).PNG)
+
+Additionally, you can find a copy of the PowerBI file for the regular version of the dashboard [HERE](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis.pbix), and a copy of the accessible version [HERE](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis%20(Accessible%20Version).pbix)
+
