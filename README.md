@@ -21,7 +21,7 @@ Thank you for your consideration.
 3. [Reading recommendation dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/3%20-%20Reading%20Recomendations%20Dashboard)
 4. [Analysis of data science professional survey results](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis)
 
-I keep some additional projects on Tableau public, which you can find [HERE](https://public.tableau.com/app/profile/travis.smith7313 ) if you are interested.
+I keep some additional projects on my Tableau public page, which you can find [HERE](https://public.tableau.com/app/profile/travis.smith7313 ) if you are interested.
 
 ## CONTACT INFO
 
