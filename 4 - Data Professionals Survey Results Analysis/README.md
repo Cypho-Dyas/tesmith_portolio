@@ -68,5 +68,23 @@ You can see a screenshot of the completed dashboard, along with an additional sc
 
 ![Data Professional Survey Results Analysis Dashboard - Accessible](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professional%20Survey%20Results%20Analysis%20(Accessible).PNG)
 
-Additionally, you can find a copy of the PowerBI file for the regular version of the dashboard [HERE](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis.pbix), and a copy of the accessible version [HERE](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis%20(Accessible%20Version).pbix)
+You can find a copy of the PowerBI files below if interested:
+
+[Normal Theme](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis.pbix)
+
+[Accessible Theme](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis/Data%20Professionals%20Survey%20Analysis%20(Accessible%20Version).pbix)
+
+## Insights
+- 630 survey respondents from various countries participated.
+- The U.S. has the highest concentration of data professionals, followed by India.
+- The average age of data analysts is around 30, consistent across countries.
+- Data professionals, on average, rate their salary as 4.27 out of 10, indicating dissatisfaction. In the U.S., the rating increases slightly to 5.00. Salary might not be a strong motivator for this career.
+- Work-life balance receives a higher rating than salary for data professionals worldwide, suggesting it is valued more than high pay.
+- Python is the preferred programming language among data professionals, followed by R, consistently across countries.
+- Data scientists have the highest average salary, with data engineers earning about 30% less. The salary difference among other data positions is relatively small.
+- Globally, male and female data professionals earn similar salaries, with females earning about 1% more on average. However, in the U.S., males earn nearly 3% more than females on average.
+
+## What Would I Change?
+Overall, I am satisfied with this visualization. If I were to make changes, I would focus on improving data collection by implementing additional data validation techniques to reduce the need for extensive cleaning. Additionally, for a more impactful analysis, I would thoroughly explore the "other" responses instead of grouping them together as I did here for clarity. In practical scenarios, it is often best to prioritize producing a minimum viable product and moving on, and I appreciate the mindset of embracing that process. However, the perfectionist in me would love to delve deeper given the opportunity.
+
 
