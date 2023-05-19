@@ -2,7 +2,8 @@
 
 ## Skills Displayed
 
-- Data Cleaning (Power Query) & Analysis
+- Data Cleaning (Power Query)
+- Data Analysis
 - Data Visualization (Power BI)
 
 ## Reasoning
@@ -16,7 +17,7 @@ The raw data is in a Microsoft Excel .xlxs file. Instead of manually cleaning it
 
 The data file has columns representing survey questions and observations representing unique survey respondents and their answers.
 
-A non-exaushstive list of the fields present in the data file are shown below for reference:
+A non exhaustive list of the fields present in the data file are shown below for reference:
 
 - Unique ID
 - Date Taken (America/New York)
@@ -28,8 +29,8 @@ A non-exaushstive list of the fields present in the data file are shown below fo
 - Q4 - What Industry do you work in?
 - Q5 - Favorite Programming Language
 - Q6 - How Happy are you in your Current Position with the following? (Work/Life Balance)
-- Q7 - How difficulte was it for you to break into Data?
-- Q8 - Ifyou were to look for a new job today, what would be the most important thing to you?
+- Q7 - How difficult was it for you to break into Data?
+- Q8 - If you were to look for a new job today, what would be the most important thing to you?
 - Q9 - Male/Female?
 - Q10 - Current Age
 - Q11 - Which Country do you live in?
@@ -37,3 +38,28 @@ A non-exaushstive list of the fields present in the data file are shown below fo
 - Q13 - Ethnicity
 
 ## Data Cleaning
+Thanks to data validation techniques applied during the collection phase, the data set was not as dirty as some of the recent ones I have worked with. Still, there was work that needed to be done to get the data in a clean and structured state prior to visualization. 
+
+Below is a list of the data cleaning steps taken to get the data into a useable state for my visualization:
+
+1. Deleted empty or otherwise extraneous fields.
+2. Used column split on delimiter to condense job titles for respondents who used the "other" option to write in their job title for Q1; removed specific title to leave only "other" as the answer.
+3. Repeated step 2 for Q4 - Which Industry do you work in?
+4. Repeated step 2 for Q5 - Favorite Programming Language.
+5. Repeated step 2 for Q11 - Which Country do you live in?
+6. created a calculated field to average the salary range given by all respondents, generating a new value more useable for the visualization. 
+7. Trimmed all fields
+8. Completed a final check on all data, removing or imputing any null values and ensuring that data type aligned with the data and that no prefixes/suffixes were going to hinder the visualization process.
+
+## Visualization
+The transformed data was loaded into Power BI and visualization began.
+
+Some of the items I knew I wanted to include going in were the count, average age, average salary rating, and average work/life balance rating of the survey participants. Knowing these things was especially important to me personally as I begin my job hunt. Further, I wanted to know how these items, in addition to the other parts of the visualization, would change depending on the country selection, so I added a tree map to show the distribution of respondents per country and to allow filtering based on specific country selection.
+
+The other items I was interested in were respondents favorite programming language (showing which was more popular amongst data professionals), the average salary per each unique job title, and the salary difference for the genders. I built the remaining graphs accordingly to show comparisons for each question posed based on those interests. 
+
+Finally, I applied a simple theme to the entire visualization and used visible borders to differentiate each of the charts, leaving a cleaner presentation against a dark background. 
+
+One interesting thing about Microsoft Power BI currently is that it has integrated accessibility themes for visually impaired viewers. I always want to incorporate DEI measures into my work when possible, so I decided to play around with these themes to see how they worked and how they can be applied to visualizations in Power BI for future reference. 
+
+You can see a screenshot of the completed dashboard, along with an additional screenshot of the accessible version below:
