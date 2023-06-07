@@ -17,10 +17,7 @@ Thank you for your consideration.
 ### Completed/In-Progress
 
 1. [Analysis of Covid-19 global case, death, and vaccination data (EDA in SQL, Visualization in Tableau](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/1%20-%20Covid%20Data%20Analysis)
-2. ![Preview](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Tableau%20Covid%20-%20Cases%20Dashboard.PNG)
-
-
-
+![Preview](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/1%20-%20Covid%20Data%20Analysis/Tableau%20Covid%20-%20Cases%20Dashboard.PNG)
 3. [Analysis of my final semester weight loss journey using FitBit Data](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/2%20-%20FitBit%20Data%20Analysis)
 4. [Reading recommendation dashboard](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/3%20-%20Reading%20Recomendations%20Dashboard)
 5. [Analysis of data science professional survey results](https://github.com/Cypho-Dyas/tesmith_portolio_projects/tree/main/4%20-%20Data%20Professionals%20Survey%20Results%20Analysis)
