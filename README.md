@@ -38,9 +38,9 @@ Thank you for your consideration.
    
 5. Analysis of superstore  sales data - Tableau Visualziation (Current work in progress)
 
-Preview:
-![Preview](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/5%20-%20Superstore%20Data%20Analysis/Superstore%20Sales%20Analysis%20Dashboard.PNG)
-
+   Preview:
+   ![Preview](https://github.com/Cypho-Dyas/tesmith_portolio_projects/blob/main/5%20-%20Superstore%20Data%20Analysis/Superstore%20Sales%20Analysis%20Dashboard.PNG)
+ 
 I keep some additional projects on my Tableau public page, which you can find [HERE](https://public.tableau.com/app/profile/travis.smith7313 ) if you are interested.
 
 ## CONTACT INFO
