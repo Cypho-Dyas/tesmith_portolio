@@ -4,11 +4,11 @@
 
 Hello,
 
-I'm Travis Smith, a recent graduate of Appalachian State University's Walker College of Business, where I completed the BSBA - Management program. Throughout my time at the college, I was exposed to courses in Business Analytics, Statistics, Strategic Management, and Commercial Finance, which sparked my passion for data analytics and led me to pursue a career in the field.
+I'm Travis Smith, a recent graduate of Appalachian State University's Walker College of Business, where I earned my B.S. in Business Administration (Management). Throughout my time at the college, I was exposed to courses in Business Analytics, Statistics, Strategic Management, and Commercial Finance, which sparked my passion for data analytics and led me to pursue a career in the field.
 
-Prior to returning to school at the age of 29, I gained over 5 years of experience in management and administrative roles within the Biotech/Clinical Research industries. During this time I worked for a contract sterile-injectable pharmaceutical manufacturer as well as a multi-national clinical research organization.
+Prior to returning to school to earn my undergraduate degree, I gained over 5 years of experience in management and administrative roles within the pharmaceutical manfuacturing and clinical research industries. During this time I worked for a contract manfuacturer of sterile-injectable pharmaceuticals as well as a multi-national clinical research organization.
 
-In my pursuit of a data analytics/data science career, I have developed this portfolio to showcase my projects as I acquire proficiency in various data science tools and software. I'm eager to contribute my skills and expertise to a relevant position in the field, and I hope you find my portfolio compelling and enjoyable.
+In my pursuit of a data analytics/data science career, I have developed this portfolio to showcase my personal projects as I acquire proficiency in various data science tools and software. I'm eager to contribute my skills and expertise to a relevant position in the field, and I hope you find my portfolio compelling and enjoyable.
 
 Thank you for your consideration.
 
